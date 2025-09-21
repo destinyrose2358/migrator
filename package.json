@@ -1,0 +1,20 @@
+{
+    "name": "typescript-migrator",
+    "version": "1.0.0",
+    "description": "A TypeScript framework for managing/migrating versioned JSON data.",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "author": "Destiny Rose",
+    "keywords": [
+        "typescript",
+        "github",
+        "npm"
+    ],
+    "devDependencies": {
+        "tsc": "^2.0.4",
+        "typescript": "^5.9.2"
+    }
+}
